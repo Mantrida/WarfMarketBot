@@ -432,5 +432,4 @@ dict_mod =  {'Болевая Точка Прайм': 'primed_pressure_point',
 
 HOMEPAGE_URL = "https://warframe.market"
 API_BASE_URL = "https://api.warframe.market/v1"
-TOKEN = ''
 PLATINUM = 'https://static.wikia.nocookie.net/warframe/images/5/59/%D0%9F%D0%BB%D0%B0%D1%82%D0%B8%D0%BD%D0%B0_%D0%B2%D0%B8%D0%BA%D0%B8.png/revision/latest/scale-to-width-down/200?cb=20200712043221&path-prefix=ru'

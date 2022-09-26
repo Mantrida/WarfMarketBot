@@ -2,6 +2,7 @@ import discord
 from discord.ext import commands
 import enumerate as enum
 import requests
+import tok
 
 bot = commands.Bot(command_prefix='!')
 
@@ -74,7 +75,4 @@ async def итем(ctx, *args):
 
     await ctx.send(embed=embed)
 
-bot.run(enum.TOKEN)
-
-#https://replit.com/@Mantrida/WarfMarketbot#main.py
-
+bot.run(tok.TOKEN)
